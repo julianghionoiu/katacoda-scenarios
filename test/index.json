@@ -1,8 +1,5 @@
 {
-  "title": "test",
-  "description": "test",
-  "difficulty": "Beginner",
-  "time": "3",
+  "title": "DevOps Basics",
   "details": {
     "steps": [
       {
@@ -13,13 +10,16 @@
         "title": "Step 2",
         "text": "step2_networking.md"
       }
-    ]
+    ],
+    "intro": {
+      "text": "intro.md"
+    }
   },
   "environment": {
     "uilayout": "terminal",
-    "hideintro": true,
-    "hidefinish": true,
+    "hideintro": false,
     "hidesidebar": false
+    "hidefinish": true,
   },
   "backend": {
     "imageid": "ubuntu:2004"

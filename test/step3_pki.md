@@ -1,6 +1,8 @@
-## Basic networking
+## PKI
 
-Things are getting interesting, let's figure out how the network is configured!
+One way or another, you always end up working with key material.
+
+- How would you view the cert
 
 Can you answer the following:
 - What is the local IP address?

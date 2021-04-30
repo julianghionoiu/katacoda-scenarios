@@ -1,4 +1,4 @@
-## Information gathering - basics
+## Resources
 
 Here is a VM, we are going to try to collect some information.
 
