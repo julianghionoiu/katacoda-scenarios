@@ -4,11 +4,15 @@
     "steps": [
       {
         "title": "Step 1",
-        "text": "step1_information_gathering.md"
+        "text": "step1_resources.md"
       },
       {
         "title": "Step 2",
         "text": "step2_networking.md"
+      },
+      {
+        "title": "Step 3",
+        "text": "step3_pki.md"
       }
     ],
     "intro": {
