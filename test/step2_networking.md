@@ -9,8 +9,8 @@ Can you answer the following:
 - What DNS resolver is being used?
 
 To further explore DNS, can you:
-- Find out the ip address of dwp.gov.uk{{copy}} ?
-- Find out that the mail server for dwp.gov.uk{{copy}} is?
+- Find out the ip address of `dwp.gov.uk`{{copy}} ?
+- Find out that the mail server for `dwp.gov.uk`{{copy}} is?
 - Find out the domain name of the DNS server (reverse lookup)?
 
-
+Once the above questions are answered, we can proceed to the next step.
