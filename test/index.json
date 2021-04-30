@@ -18,6 +18,14 @@
       {
         "title": "4. Git and Bash",
         "text": "step4_git_and_bash.md"
+      },
+      {
+        "title": "5. Docker",
+        "text": "step5_docker.md"
+      },
+      {
+        "title": "6. Cloud",
+        "text": "step6_cloud.md"
       }
     ],
     "intro": {
