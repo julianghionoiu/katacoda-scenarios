@@ -1,5 +1,3 @@
-## Basic networking
-
 Things are getting interesting, let's figure out how the network is configured!
 
 Can you answer the following:
