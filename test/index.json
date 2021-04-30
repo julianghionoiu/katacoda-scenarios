@@ -7,21 +7,15 @@
     "steps": [
       {
         "title": "Step 1",
-        "text": "step1.md"
+        "text": "1_info_gathering.md"
       }
-    ],
-    "intro": {
-      "text": "intro.md"
-    },
-    "finish": {
-      "text": "finish.md"
-    }
+    ]
   },
   "environment": {
     "uilayout": "terminal",
     "hideintro": true,
     "hidefinish": true,
-    "hidesidebar": true
+    "hidesidebar": false
   },
   "backend": {
     "imageid": "ubuntu:2004"
