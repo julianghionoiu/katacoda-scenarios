@@ -14,6 +14,10 @@
       {
         "title": "3. PKI",
         "text": "step3_pki.md"
+      },
+      {
+        "title": "4. Git and Bash",
+        "text": "step4_git_and_bash.md"
       }
     ],
     "intro": {
