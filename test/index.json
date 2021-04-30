@@ -34,7 +34,7 @@
   },
   "environment": {
     "uilayout": "terminal",
-    "hideintro": true,
+    "hideintro": false,
     "hidesidebar": false,
     "hidefinish": true
   },
