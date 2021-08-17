@@ -1,6 +1,6 @@
 One way or another, you always end up working with key material.
 
-We are going to use look at the certificate for `https://bbc.co.uk`{{copy}}.
+We are going to look at the certificate for `https://bbc.co.uk`{{copy}}.
 
 Can you answer the following questions:
 - How would you download the certificate locally?
